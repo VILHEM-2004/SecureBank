@@ -14,8 +14,7 @@ https://vilhem-2004.github.io/SecureBank/SecureBank/
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
-- [License](#license)
-
+  
 ## Introduction
 
 Welcome to the SmartBank Landing Page! This modern and professional landing page highlights the key features of SmartBank, a secure and user-friendly digital banking solution. It's built using HTML, CSS, and JavaScript to deliver a responsive and interactive user experience.
