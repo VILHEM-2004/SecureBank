@@ -6,8 +6,8 @@
   <img alt="SecureBank" src="./SecureBank.jpg" />
 </div>
 
-- [Link to Project Repository](https://vilhem-2004.github.io/SecureBank/)
-- Demo Link: https://vilhem-2004.github.io/SecureBank/SecureBank/
+- [Link to Project Repository](https://github.com/VILHEM-2004/SecureBank/tree/main/SecureBank)
+- [Demo Link: https](//vilhem-2004.github.io/SecureBank/SecureBank/)
 
 ## Table of Contents
 
